@@ -26,7 +26,7 @@ const experiences = [
     role: "AWS Fundamentals",
     company: "Aventro Technologies Pvt Ltd",
     period: "September 2025",
-    location: "Remote",
+    location: "On-site",
 
     description:
       "Finished a one-month internship focused on AWS Fundamentals. Gained practical knowledge of cloud computing concepts and deployment models. Worked with EC2, S3, IAM, RDS, CloudWatch, and Lambda while learning cloud deployment, monitoring, security, hosting, storage, and resource management practices.",
@@ -47,7 +47,7 @@ const experiences = [
     role: "AI YouTube Income System",
     company: "Aventro Technologies Pvt Ltd",
     period: "October 2025",
-    location: "Remote",
+    location: "On-site",
 
     description:
       "Successfully completed a short-term internship focused on AI-driven YouTube Income Systems. Gained hands-on exposure to cloud computing concepts and their application in AI-based workflows. Improved practical understanding of industry practices, automation tools, scalable digital systems, and real-world project environments.",
